@@ -15,6 +15,6 @@ Setup
 -Create a repository and try to duplicate this project using the provided workflows to check for any errors or vulnerabilities and correct them accordingly.
 
 👤 Author
-GitHub: [@githubhandle](https://github.com/Ghostman747)
-Twitter: [@twitterhandle](https://twitter.com/aquinas747)
+GitHub: [@Ghostman747](https://github.com/Ghostman747)
+Twitter: [@aquinasmoriasi](https://twitter.com/aquinas747)
 LinkedIn: www.linkedin.com/in/aquinas-moriasi
